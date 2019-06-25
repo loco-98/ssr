@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/eclipse/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/commons-fileupload-1.4-bin/commons-fileupload-1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/commons-fileupload-1.4-bin/commons-fileupload-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/commons-fileupload-1.4-bin/commons-fileupload-1.4-tests.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/commons-fileupload-1.4-bin/commons-fileupload-1.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/c3p0-0.9.2-pre1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-dbutils-1.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/网上图书管理/文档/小工具/jar/itcast-tools-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/网上图书管理/文档/小工具/jar/mchange-commons-0.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0"/>
+	<classpathentry kind="lib" path="E:/eclipse/junit-4.10.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
